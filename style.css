@@ -1,0 +1,18 @@
+body{
+    background-image: url("https://previews.123rf.com/images/zitusia/zitusia1804/zitusia180400042/99689416-seamless-pattern-for-little-boys-and-girls-sketch-style-hand-drawn-children-drawings-doodle-children.jpg");
+background-size: cover;
+
+}
+#score ,#timer{
+font-size: 30px;
+background-color: #d1e6e5;
+font-weight: bolder;
+
+}
+
+   p{
+        font-size: 20px;
+        background-color: #d1e6e5;
+        font-style: italic;
+        font-weight: bold;
+    }
